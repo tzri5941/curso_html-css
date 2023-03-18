@@ -1,0 +1,15 @@
+h1 {
+    color: white;
+}
+#div1 {
+    float: left;
+    margin-left: 15px;
+}
+
+#div2 {
+    float: right;
+    margin-right: 15px;
+}
+body {
+    background-color: lightgray;
+}
